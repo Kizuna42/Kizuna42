@@ -6,7 +6,7 @@
 <!-- あいさつセクション -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm Kizuna Ishino — a 19 y/o freelance engineer from Japan.
+- 🧑‍💻 I'm Kizuna Ishino — a 20 y/o freelance engineer from Japan.
 - 🤖 I code with AI as my **default teammate**.
 - 🔍 Currently diving deeper into **systems programming**.
 - 🧠 Strong in: **AI/ML**, **C**, **low-level computing**, and **web backend**.
