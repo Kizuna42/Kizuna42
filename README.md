@@ -22,7 +22,7 @@
 | Project | Description | Stack | Link |
 | --- | --- | --- | --- |
 | **RAG** | Hybrid-search RAG over 23M characters of Japanese biblical reference texts — pgvector + pgroonga (RRF fusion), Voyage rerank, full CI gate. | Next.js / pgvector / pgroonga / Voyage | Private repository — overview only |
-| **AIagent** | AI web-search agent — Brave Search × GPT-4o-mini streaming chat. | Next.js 15 / Mastra / TypeScript | [GitHub](https://github.com/Kizuna42/AIagent) |
+| **AIagent** | AI web-search agent — Brave Search × GPT-4o-mini streaming chat. | Next.js 16 / Mastra / TypeScript | [GitHub](https://github.com/Kizuna42/AIagent) |
 | **minishell** | A bash subset reimplemented in C: lexer → AST parser → tree-walking executor with pipes, redirections, here-docs, variable expansion, builtins, and signal handling. | C | [GitHub](https://github.com/Kizuna42/minishell) |
 | **ft_irc** | IRC server in C++98 with poll()-based non-blocking I/O. | C++98 | [GitHub](https://github.com/Kizuna42/ft_irc) |
 
