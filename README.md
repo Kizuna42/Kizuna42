@@ -4,7 +4,7 @@
 </div>
 
 <!-- Intro -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Kizuna Ishino (石野 絆)
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt=""> Hi there, I'm Kizuna Ishino (石野 絆)
 
 **AI-native freelance engineer** | RAG · LLM apps × Web backend (TypeScript/Next.js) | 42 Tokyo
 
