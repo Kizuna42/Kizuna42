@@ -46,9 +46,9 @@ Through the 42 Tokyo curriculum, I've built hands-on experience in systems progr
 <!-- GitHub stats -->
 ## 🏃‍♂️ Activities
 
-<div align="left"> 
-  <img alt="GitHub stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=Kizuna42&theme=vue-dark&show_icons=true" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kizuna42&theme=vue-dark&layout=compact" />
+<!-- The public github-readme-stats instance (github-readme-stats.vercel.app) is paused, so its cards no longer render. -->
+<div align="left">
+  <img alt="GitHub streak stats" height="170px" src="https://streak-stats.demolab.com/?user=Kizuna42&theme=vue-dark" />
 </div>
 
 ---
